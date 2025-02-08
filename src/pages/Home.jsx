@@ -56,11 +56,7 @@ function Home() {
           <div className="card">
             <h2>Test</h2>
             <p>
-              Purpose-led smarter steel thinking, insight and podcasts for
-              people and <br />
-              planet. The Steel Works series captures the latest
-              thought-provoking and <br />
-              behind the scenes content from the people behind our business.
+              test
             </p>
 
             <a id="card-link" href="">
